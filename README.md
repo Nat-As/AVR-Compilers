@@ -21,3 +21,6 @@ AVR compilers and assemblers for assembly and C. This module allows you to flash
 3. ```brew install avr-gcc```
 4. ```brew install avrdude```
 5. Download this repository
+
+## Windows
+1. Learn Linux.
